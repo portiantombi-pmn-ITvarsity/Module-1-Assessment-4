@@ -1,0 +1,46 @@
+#top{
+    background-color: fuchsia;
+    font-size: 150%;
+    text-align:  center;
+}
+
+#movie{
+    background-color: cyan;
+    padding-left: 7px;
+}
+
+#rank{
+    width:10%;
+    text-align: center;
+}
+
+table{
+    font-family: monospace;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: aqua;
+}
+
+year{
+    text-align: center;
+}
+earnings{
+    text-align: center;
+}
+th{
+    font-family: 800;
+    background-color: aqua;
+    
+}
+td{
+    height: 20px;
+    background-color:rosybrown;
+    font-family: inherit;
+}
+tr{
+    background-color: blanchedalmond;
+}
+h1{
+   font-family: fantasy;
+}
